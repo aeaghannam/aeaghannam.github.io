@@ -1,0 +1,87 @@
+div {
+  list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Permanent Marker', Courier New;
+    font-size:20px;
+    column-count: 3;
+    column-gap: 10px;
+    height: 200px;
+}
+
+
+
+body{
+background-color: #fff; 
+background-image: 
+linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+linear-gradient(#eee .1em, transparent .1em);
+background-size: 100% 1.2em;
+}
+
+h1{
+font-family: 'Permanent Marker', cursive;
+font-size:200px;
+}
+
+p2 {
+font-family: 'Permanent Marker', cursive;
+font-size:50px;
+}
+
+
+p3 {
+font-family: 'Permanent Marker', Courier New;
+font-size:40px;
+color:grey;
+}
+
+p4 {
+font-family: 'Permanent Marker', cursive;
+background-color: yellow;
+font-size:40px;
+}
+
+
+
+
+/* Style all font awesome icons */
+.fa {
+   padding: 30px;
+   font-size: 80px;
+   width: 80px;
+   text-align: center;
+   text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+   opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+   background: #3B5998;
+   color: white;
+
+}
+
+/* Twitter */
+.fa-twitter {
+   background: #55ACEE;
+   color: white;
+
+}
+
+.fa-instagram {
+ background: #125688;
+ color: white;
+}
+
+.fa-snapchat {
+ background: #fffc00;
+ color: white;
+ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
